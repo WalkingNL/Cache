@@ -3,8 +3,7 @@
 
 #### 背景介绍
 “我们的后台或许不慢，只是后台的处理动作，被我们在前台感受到了”，我跟领导多次强调这一点。
-
-![FB.png](https://github.com/WalkingNL/Pics/blob/master/FB.png)
+![FB.jpg](https://github.com/WalkingNL/Pics/blob/master/FB.jpg)
 
 #### 实现原理
 
